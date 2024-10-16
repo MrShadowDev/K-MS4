@@ -1,0 +1,5 @@
+{
+    "webhook_url": "YOUR_WEBHOOK_HERE",
+    "max_workers": 100,
+    "default_word_count": 3927
+}
